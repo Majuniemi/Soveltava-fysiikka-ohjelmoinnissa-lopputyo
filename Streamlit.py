@@ -1,5 +1,3 @@
-from audioop import avg
-from matplotlib.pyplot import step
 import streamlit as st
 import pandas as pd
 import numpy as np
