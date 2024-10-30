@@ -1,10 +1,10 @@
-### Soveltava matematiikka ja fysiikka ohjelmoinnissa
+# Soveltava matematiikka ja fysiikka ohjelmoinnissa
 
 ## Fysiikan lopputyö
 
 Projektina suoritetaan samanaikaisesti mitattujen GPS- ja kiihtyvyyshavaintojen analyysi ja tuotetaan siitä laadukas visualisointi.  Työn tuloksena syntyy eräänlainen urheilusovelluksen prototyyppi, jonka avulla voi esimerkiksi analysoida mitattua liikettä harjoittelun ajalta. 
 
-# Mittaukset
+### Mittaukset
 
 Kävele ulkona vähintään muutaman minuutin ajan ja mittaa samalla kiihtyvyyttä ja sijaintia Phyphox-sovelluksella. Pidä puhelin koko ajan samassa asennossa, mielellään melko lähellä ylävartaloa. 
 
@@ -21,7 +21,7 @@ Mittaus toimii kuten ennenkin, mutta tuottaa nyt kaksi csv-tiedosto (Acceleromet
 
 Jos olet estynyt liikkumaan ulkotilassa, ole yhteydessä opettajaan. 
 
-## Analyysi ja visualisointi
+### Analyysi ja visualisointi
 
 Tutki, missä kiihtyvyyden komponentissa kävelyliike havaitaan parhaiten, valitse se analyysiin kiihtyvyyden osalta.
 
